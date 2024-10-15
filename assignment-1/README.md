@@ -15,22 +15,22 @@ Create a heatmap chart with the following specifications:
 - Y-axis: Latency
 - X-axis: Time
 
-Two visual maps:
+### Two visual maps:
 - Trace count (gray shades)
 - Errors (red shades)
 
 
 ## Technical Stack
 
-Frontend: React
-Backend: Next.js
-Database: PostgresDB (for storing view templates)
-Charting Library: Apache ECharts
+- Frontend: React
+- Backend: Next.js
+- Database: PostgresDB (for storing view templates)
+- Charting Library: Apache ECharts
 
 
-Submission Guidelines
+## Submission Guidelines
 
-Provide a GitHub repository with your complete project.
-Make sure to commit often with changes. Do not commit your solution at once!
-Include a comprehensive README with setup instructions and any assumptions made.
-Record a loom video demonstrating the project.
+- Provide a GitHub repository with your complete project.
+- Make sure to commit often with changes. Do not commit your solution at once!
+- Include a comprehensive README with setup instructions and any assumptions made.
+- Record a loom video demonstrating the project.
